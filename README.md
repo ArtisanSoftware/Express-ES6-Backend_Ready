@@ -1,6 +1,6 @@
-# Suaro-backend 
+# Express ES6 Backend Boiler Plate
 
-Backend for Suaro
+Skeleton Project
 
 ## Installation 
 
