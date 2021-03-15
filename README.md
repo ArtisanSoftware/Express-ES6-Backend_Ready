@@ -56,4 +56,4 @@ forever start app.js
 ```
 
 ## License
-Property of Suaro DE
+GPL
